@@ -1,2 +1,2 @@
 # shivamsingh4215-demo
-This is my first Gir Repository &lt;br> Author - Shivam Singh
+This is my first Git Repository <br> Author - Shivam Singh
